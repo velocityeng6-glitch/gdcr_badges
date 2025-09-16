@@ -1,0 +1,35 @@
+{
+	"geode": "4.8.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "delivel.gd_community_reviewers",
+	"name": "GD Community Reviewers Badges",
+	"version": "v1.0.0",
+	"developer": "delivel",
+    "description": "Adds custom Reviewer badges to profiles.",
+	"resources": {
+		"sprites": [
+			"resources/badge_yellow.png",
+			"resources/badge_red.png",
+			"resources/badge_owner.png",
+			"resources/button_menu.png"
+		]
+	},
+	"dependencies": {
+		"geode.node-ids": ">=v1.21.1",
+        "jouca.badgesapi": ">=v1.2.4"
+	},
+	"links": {
+		"source": "",
+		"community": "https://discord.gg/tmf5xtCX5y"
+	},
+	"tags": [
+		"customization",
+		"interface",
+		"utility"
+	]
+}
