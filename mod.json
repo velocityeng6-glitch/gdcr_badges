@@ -24,7 +24,7 @@
         "jouca.badgesapi": ">=v1.2.4"
 	},
 	"links": {
-		"source": "",
+		"source": "https://github.com/velocityeng6-glitch/gdcr_badges",
 		"community": "https://discord.gg/tmf5xtCX5y"
 	},
 	"tags": [
@@ -33,3 +33,4 @@
 		"utility"
 	]
 }
+
